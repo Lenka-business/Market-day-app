@@ -1,0 +1,9 @@
+{
+  "name": "Market Day Register",
+  "short_name": "Market Day",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1F2A24",
+  "theme_color": "#2F6E4F",
+  "icons": []
+}
